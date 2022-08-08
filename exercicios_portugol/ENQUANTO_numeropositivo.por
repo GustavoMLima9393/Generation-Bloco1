@@ -1,10 +1,10 @@
 programa
 {
-	inclua biblioteca Matematica-->mat
+	inclua biblioteca Matematica-->mat
 	
 	funcao inicio()
 	{
-		real media, soma=0, quantNum=0
+		real media, soma=0.0, quantNum=0.0
 		inteiro numero=0
 
 		enquanto (numero>=0)
@@ -27,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 373; 
+ * @POSICAO-CURSOR = 325; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
