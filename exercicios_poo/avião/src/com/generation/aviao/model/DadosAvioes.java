@@ -94,6 +94,5 @@ public class DadosAvioes
 		System.out.println("Capacidade de tripulantes: "+ capacidade);
 		System.out.println("Regiões de operação: " + regioes);
 		System.out.println("Empresa de manutenção: " + manutencao);
-
 	}
 }
